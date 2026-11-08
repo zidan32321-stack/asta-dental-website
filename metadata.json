@@ -1,0 +1,6 @@
+{
+  "name": "Asta Dental - Luxury Editorial Dental Care",
+  "description": "An editorial luxury dental clinic web experience featuring appointment requests, services catalogue, patient reviews, and practice highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
